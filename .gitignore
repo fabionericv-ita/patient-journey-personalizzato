@@ -1,0 +1,22 @@
+# IDE e Editor
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Log e file temporanei
+*.log
+tmp/
+temp/
+
+# File di ambiente sensibili (Database password, etc)
+.env
+.env.local
+
+# Docker locale
+.docker/
